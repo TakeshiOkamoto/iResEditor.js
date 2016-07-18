@@ -25,6 +25,7 @@ Also, it do not upload the file to server.
 English  
 [http://www.petitmonte.com/labo/iResEditor/en/](http://www.petitmonte.com/labo/iResEditor/en/)  
 Japanese  
+
 [http://www.petitmonte.com/labo/iResEditor/](http://www.petitmonte.com/labo/iResEditor/)  
 
 ## How to use 
